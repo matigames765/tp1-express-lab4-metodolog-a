@@ -1,0 +1,19 @@
+{
+  "name": "tp-1-express",
+  "version": "0.0.1",
+  "description": "trabajo practico numero 1 de express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Matías Games",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "env-var": "^7.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
